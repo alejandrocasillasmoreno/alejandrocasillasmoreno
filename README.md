@@ -1,4 +1,4 @@
-# Hola, soy Alejandro 👋
+# Hola, soy Alejandro
 
 
 ## Mis estadísticas de GitHub
