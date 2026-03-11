@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Alejandro 👋
 
 Soy desarrollador [tu especialidad] apasionado por [tecnologías que te gustan]. 
 Actualmente estoy aprendiendo [tema actual] y buscando colaborar en proyectos de [área de interés].
